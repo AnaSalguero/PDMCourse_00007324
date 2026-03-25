@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Ejercicio1</string>
+    <string name="compose_tutorial">Jeckpack Compose tutorial</string>
+    <string name="compose1">Jetpack Compose is a modern toolkit for building native Android UI. Compose simplifies and accelerates UI development on Android.</string>
+    <string name="compose2">In this tutorial, you build a simple UI component with declarative functions. You call Compose functions to say what elements you want and the Compose compiler does the rest. Compose is built around Composable functions. These functions let you define your app's UI programmatically because  they let you describe how it should look and provide data dependencies.</string>
+    <string name="task">Task Complete</string>
+    <string name="nice_work">Nice work!</string>
+    <string name="text1">Text composable</string>
+    <string name="parraf1">Displays text and follows the recommended Material Design guidelines.</string>
+    <string name="text2">Image composable</string>
+    <string name="parraf2">Creates a composable that lays out and draws a given Painter class object.</string>
+    <string name = "text3">Row composable</string>
+    <string name = "parraf3">A layout composable that places its children in a horizontal sequence.</string>
+    <string name = "text4">Column composable</string>
+    <string name = "parraf4">A layout composable that places its children in a vertical sequence.</string>
+
+</resources>
